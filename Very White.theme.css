@@ -1,0 +1,48 @@
+/**
+ * @name Very White Discord
+ * @author MoronDev
+ * @version 2.0.0
+ * @description Kill Your Eyes! This Theme Is Not Meant To Be A Theme I Want You To Use. This Is Just A Joke.
+ * @invite https://discord.gg/fpxea9mzDg
+ * @donate https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ * @authorId 699645568401801346
+ * @source https://github.com/SmallDevelopers-blip/WhiterWhite/
+ * @website https://www.youtube.com/watch?v=dQw4w9WgXcQ
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/base.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/userPopouts.css');
+@import url('https://discord-custom-covers.github.io/usrbg/snippets/modals.css');
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/kYW2H5C.jpg');
+  --background-image-blur: 25px;
+  --background-image-size: contain;
+  --background-image-position: center center;
+  --popout-modal-image: var(--background-image);
+  --popout-modal-blur: 5px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center center;
+  --home-button-image: url('https://www.setaswall.com/wp-content/uploads/2017/04/White-Solid-Color-Background-Wallpaper-5120x2880.png');
+  --home-button-size: cover;
+  --home-button-position: center center;
+  --serverlist-brightness: 0;
+  --left-brightness: 0;
+  --middle-brightness: 0;
+  --right-brightness: 0;
+  --popout-modal-brightness: 0;
+  --gradient-primary: 255,255,255;
+  --gradient-secondary: 255,255,255;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --link-colour: #ffffff;
+  --gradient-direction: 320deg;
+  --tint-colour: 255,255,255;
+  --tint-brightness: 1;
+  --font: 'Whitney';
+  --window-padding: 1px;
+  --window-roundness: 10px;
+  --show-gift-gif-buttons: none;
+  --update-notice-1: none;
+}
